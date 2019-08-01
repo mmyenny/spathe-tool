@@ -1,4 +1,4 @@
-# spathe-tool
+# client
 
 ## Project setup
 ```

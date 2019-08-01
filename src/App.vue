@@ -1,22 +1,16 @@
 <template>
   <div id="app">
-    <Home />
-    <User />
-    <Registration />
+    <HeaderMenu></HeaderMenu>
   </div>
 </template>
 
 <script>
-import Home from "@/components/Home.vue";
-import User from "@/components/User.vue";
-import Registration from "@/components/Registration.vue";
+import HeaderMenu from "@/components/HeaderMenu.vue";
 
 export default {
   name: "app",
   components: {
-    Home,
-    User,
-    Registration
+    HeaderMenu
   }
 };
 </script>
@@ -27,7 +21,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  color: #000000;
+  margin-top: 5px;
 }
 </style>

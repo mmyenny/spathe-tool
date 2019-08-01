@@ -1,0 +1,43 @@
+{
+    "users": [{
+            "id": 1,
+            "firstName": "Melinda",
+            "lastName": "Baker",
+            "fullName": "Steve Chandler",
+            "email": "marsha@newton.kn",
+            "bool": false
+        },
+        {
+            "id": 2,
+            "firstName": "Joy",
+            "lastName": "Cowan",
+            "fullName": "Bob Hess",
+            "email": "willie@horne.de",
+            "bool": true
+        },
+        {
+            "id": 3,
+            "firstName": "Stacy",
+            "lastName": "Chandler",
+            "fullName": "Chris Hernandez",
+            "email": "karen@scott.ua",
+            "bool": false
+        },
+        {
+            "id": 4,
+            "firstName": "Maxine",
+            "lastName": "Henry",
+            "fullName": "Anita Gibbons",
+            "email": "carole@beatty.gq",
+            "bool": false
+        },
+        {
+            "id": 5,
+            "firstName": "Bernard",
+            "lastName": "Joseph",
+            "fullName": "Dwight Eason",
+            "email": "gretchen@robinson.tm",
+            "bool": true
+        }
+    ]
+}
